@@ -1,0 +1,26 @@
+{
+  "name": "collateral-backed-tokens",
+  "version": "1.0.0",
+  "description": "Smart Contract for Collateral backed tokens",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiran017/collateral-backed-tokens.git"
+  },
+  "keywords": [],
+  "author": "skiran017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiran017/collateral-backed-tokens/issues"
+  },
+  "homepage": "https://github.com/skiran017/collateral-backed-tokens#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
